@@ -1,0 +1,1 @@
+{"version":3,"file":"ObjectLiteralElement.d.ts","sourceRoot":"","sources":["../../src/unions/ObjectLiteralElement.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,gBAAgB,EAAE,MAAM,kCAAkC,CAAC;AACzE,OAAO,KAAK,EAAE,QAAQ,EAAE,MAAM,0BAA0B,CAAC;AACzD,OAAO,KAAK,EAAE,aAAa,EAAE,MAAM,+BAA+B,CAAC;AAEnE,oBAAY,oBAAoB,GAAG,gBAAgB,GAAG,QAAQ,GAAG,aAAa,CAAC;AAG/E,oBAAY,wBAAwB,GAAG,oBAAoB,CAAC"}

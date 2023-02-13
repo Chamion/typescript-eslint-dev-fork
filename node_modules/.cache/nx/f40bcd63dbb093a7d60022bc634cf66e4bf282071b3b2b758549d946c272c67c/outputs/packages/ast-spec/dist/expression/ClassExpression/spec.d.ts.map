@@ -1,0 +1,1 @@
+{"version":3,"file":"spec.d.ts","sourceRoot":"","sources":["../../../src/expression/ClassExpression/spec.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,cAAc,EAAE,MAAM,sBAAsB,CAAC;AAC3D,OAAO,KAAK,EAAE,oBAAoB,EAAE,MAAM,iCAAiC,CAAC;AAE5E,MAAM,WAAW,eAAgB,SAAQ,oBAAoB;IAC3D,IAAI,EAAE,cAAc,CAAC,eAAe,CAAC;CACtC"}
